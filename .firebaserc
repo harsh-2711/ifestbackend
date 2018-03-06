@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "ifestBackend": "ifestvolunteer",
+    "default": "ifestvolunteer"
+  }
+}
