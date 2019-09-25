@@ -18,7 +18,8 @@
         "vue-js-cookie": "^2.0.0",
         "vue-loading-spinner": "^1.0.10",
         "vue-router": "^2.6.0",
-        "shelljs": "0.8.3"
+        "shelljs": "0.8.3",
+        "express": "4.17.1"
     },
     "devDependencies": {
         "autoprefixer": "^7.1.2",
